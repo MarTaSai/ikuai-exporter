@@ -1,7 +1,7 @@
 # IKuai Prometheus Exporter
 
 
-![grafana](/ikuai-exporter/refs/heads/main/docs/images/grafana.png "grafana")
+![grafana](/docs/images/grafana.png "grafana")
 
 ### 部署
 
