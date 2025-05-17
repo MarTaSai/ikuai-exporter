@@ -1,7 +1,7 @@
 # IKuai Prometheus Exporter
 
 
-![grafana](https://raw.githubusercontent.com/tossp/ikuai-exporter/refs/heads/main/docs/images/grafana.png "grafana")
+![grafana](/ikuai-exporter/refs/heads/main/docs/images/grafana.png "grafana")
 
 ### 部署
 
